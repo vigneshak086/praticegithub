@@ -1,10 +1,8 @@
 hi this is good morning 
 i am abishek 
 this is allu arjun 
-<<<<<<< HEAD
-this is added by ravi 
-=======
+this is added by ravi
 demo this
 i am working on github action
-i am working on Ansible playbook
->>>>>>> c97c9c61de7e496c366088d11dff470ed262b12f
+i am working on Ansible playbox 
+this is ravi 
